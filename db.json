@@ -1,0 +1,32 @@
+{
+    "Fights": [
+        {
+            "id": 1,
+            "bluename": "Max Wiegand",
+            "whitename": "Paul Schulz",
+            "groupname": "Schkeuditz : Döbeln",
+            "roundname": "1: -100kg"
+        },
+        {
+            "id": 2,
+            "bluename": "Marwin Karp",
+            "whitename": "Lino Janke",
+            "groupname": "JKS vs. Döbeln",
+            "roundname": "2: -90kg"
+        },
+        {
+            "id": 3,
+            "bluename": "Dorian Klein",
+            "whitename": "Janek Szimeiszter",
+            "groupname": "JKS vs. Döbeln",
+            "roundname": "3: -60kg"
+        },
+        {
+            "id": 4,
+            "bluename": "Philip Maffee",
+            "whitename": "Thomas Gerbert",
+            "groupname": "JKS vs. Döbeln",
+            "roundname": "4: -66kg"
+        }
+    ]
+}
